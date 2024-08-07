@@ -1,0 +1,31 @@
+{
+  "secTitle": "  Nous collaborons avec ces entreprises et organisations pour offrir les meilleurs services à nos clients. ",
+  "dataList": [
+   
+      {
+          "id": "1",
+          "personImage": "logoIntelli.jpg",
+          "link": "https://esprit.tn/",
+          "personTitle": "Conseil D’administration et Directeur Général",
+          "socialLinks": {
+              "facebook": "//www.facebook.com",
+              "twitter": "//www.twitter.com",
+              "linkedin": "//www.linkedin.com",
+              "youtube": "//www.youtube.com"
+          }
+      },
+      {
+          "id": "2",
+          "personImage": "esprit_inge.jpg",
+          "link": "https://esprit.tn/",
+          "personTitle": "Directrice Marketing et Communication",
+          "socialLinks": {
+              "facebook": "//www.facebook.com",
+              "twitter": "//www.twitter.com",
+              "linkedin": "//www.linkedin.com",
+              "youtube": "//www.youtube.com"
+          }
+      }
+    
+  ]
+}
